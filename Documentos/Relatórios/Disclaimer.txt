@@ -1,0 +1,4 @@
+O modo desejável de visualização desses relatórios seria por meio
+do reporting services, os presentes arquivos podem apresentar 
+problemas visuais em virtude de não serem o formato padrão para 
+visualização.
